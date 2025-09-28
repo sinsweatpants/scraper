@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated data files
+*.csv
+*.log
+
+# Environment-specific files
+.env
+venv/
+*.egg-info
